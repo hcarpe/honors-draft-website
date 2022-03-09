@@ -1,0 +1,20 @@
+/* css */
+*{
+  font-family: "Helvetica", Times, serif;
+  line-height: normal;
+  background-color: #DCDCDC;
+  }
+
+  .bar {
+    display: inline-block;
+    width: 20px;
+    height: 75px;
+    background-color: teal;}
+
+  .title {
+    font-size: xx-large;
+  }
+
+  .map {
+    font-size: small;
+  }
