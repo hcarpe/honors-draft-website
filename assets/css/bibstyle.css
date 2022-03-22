@@ -1,0 +1,19 @@
+*{
+  font-family: "Source Sans Pro, ""Helvetica Neue", Arial, sans-serif;
+  line-height: normal;
+  background-color: #ffffff;
+  font-size: 14px;
+  }
+
+.title {
+  font-size: 26px;
+}
+
+.hangindent {
+  padding-left: 48px ;
+  text-indent: -30px ;
+}
+
+.notbib {
+  font-size: 18px ;
+}
