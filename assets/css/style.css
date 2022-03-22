@@ -22,3 +22,13 @@
     font-size: 20px;
     font-weight: bold;
   }
+
+  .indent{
+    text-indent: 45px ;
+  }
+
+  .hangindent {
+font-size: 18px;
+padding-left: 48px ;
+text-indent: -30px ;
+}
