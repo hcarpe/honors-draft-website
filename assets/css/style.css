@@ -1,20 +1,24 @@
 /* css */
 *{
-  font-family: "Helvetica", Times, serif;
+  font-family: "Source Sans Pro, ""Helvetica Neue", Arial, sans-serif;
   line-height: normal;
-  background-color: #DCDCDC;
+  background-color: #ffffff;
+  font-size: 18px;
   }
-
-  .bar {
-    display: inline-block;
-    width: 20px;
-    height: 75px;
-    background-color: teal;}
 
   .title {
-    font-size: xx-large;
+    font-size: 36px;
   }
 
-  .map {
-    font-size: small;
+  .subtitle {
+    font-size: 26px;
+  }
+
+  .toc {
+    font-size: 20px;
+  }
+
+  .sectitle {
+    font-size: 20px;
+    font-weight: bold;
   }
