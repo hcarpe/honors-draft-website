@@ -62,6 +62,25 @@
   color: white;
 }
 
+.btntxt {
+  font-size: 16px;
+}
+
+.rpfbtnbtm {
+  position: absolute;
+  bottom: 100px;
+}
+
+.meansbtnbtm {
+  position: absolute;
+  bottom: 140px;
+}
+
+.odbtn1pos {
+  position: absolute;
+  bottom: 0px;
+}
+
 .modal-header {
   justify-content: center;
 }
