@@ -49,3 +49,19 @@
 .footnote {
     font-size: 14px;
 }
+
+.btn {
+  background-color: #ffffff;
+  border: none;
+  color: white;
+}
+
+.btn2 {
+  background-color: #000000;
+  border: none;
+  color: white;
+}
+
+.modal-header {
+  justify-content: center;
+}
